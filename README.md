@@ -1,6 +1,5 @@
-# first_app
+# Plant Disease Detector
 
-A new Flutter project.
 
 ## Getting Started
 
